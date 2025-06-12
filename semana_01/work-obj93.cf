@@ -1,0 +1,7 @@
+v 4
+file . ".\unidade_teste.vhd" "47f2fa13c16cafc288208f74cee7a22aaf8c6b17" "20241014225052.830":
+  entity unidade_teste at 1( 0) + 0 on 21;
+  architecture unit of unidade_teste at 7( 87) + 0 on 22;
+file . "mux2x1.vhd" "906293ebf4b244b9460caf44ed324fa31dcf170e" "20241014225049.723":
+  entity mux2x1 at 1( 0) + 0 on 19;
+  architecture a_mux2x1 of mux2x1 at 14( 209) + 0 on 20;

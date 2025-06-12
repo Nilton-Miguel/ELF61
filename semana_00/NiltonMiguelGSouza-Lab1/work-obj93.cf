@@ -1,0 +1,7 @@
+v 4
+file . "unidade_teste.vhd" "ba5022821923654255d2c409a2541a67d3505bc8" "20241011030136.831":
+  entity unidade_teste at 1( 0) + 0 on 17;
+  architecture unit of unidade_teste at 7( 87) + 0 on 18;
+file . "decoder_2x4.vhd" "4e6851c5f1d1f4822c8b30dbb4caeb480a219243" "20241011025318.022":
+  entity decoder_2x4 at 1( 0) + 0 on 11;
+  architecture decoder_combinacional of decoder_2x4 at 12( 187) + 0 on 12;

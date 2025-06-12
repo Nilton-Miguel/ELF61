@@ -1,0 +1,34 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sat Oct 19 20:19:30 2024
+[*]
+[dumpfile] "C:\Users\Usuario\Documents\0 UTFPR\ARQCOMP\semana_01\ULA\Eq02_ULA.ghw"
+[dumpfile_mtime] "Sat Oct 19 20:15:31 2024"
+[dumpfile_size] 890
+[savefile] "C:\Users\Usuario\Documents\0 UTFPR\ARQCOMP\semana_01\ULA\Eq02_ULA.gtkw"
+[timestart] 0
+[size] 1783 717
+[pos] -97 -37
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.eq02_ula_tb.
+[sst_width] 197
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 194
+@22
+#{top.eq02_ula_tb.sig_in_a[15:0]} top.eq02_ula_tb.sig_in_a[15] top.eq02_ula_tb.sig_in_a[14] top.eq02_ula_tb.sig_in_a[13] top.eq02_ula_tb.sig_in_a[12] top.eq02_ula_tb.sig_in_a[11] top.eq02_ula_tb.sig_in_a[10] top.eq02_ula_tb.sig_in_a[9] top.eq02_ula_tb.sig_in_a[8] top.eq02_ula_tb.sig_in_a[7] top.eq02_ula_tb.sig_in_a[6] top.eq02_ula_tb.sig_in_a[5] top.eq02_ula_tb.sig_in_a[4] top.eq02_ula_tb.sig_in_a[3] top.eq02_ula_tb.sig_in_a[2] top.eq02_ula_tb.sig_in_a[1] top.eq02_ula_tb.sig_in_a[0]
+#{top.eq02_ula_tb.sig_in_b[15:0]} top.eq02_ula_tb.sig_in_b[15] top.eq02_ula_tb.sig_in_b[14] top.eq02_ula_tb.sig_in_b[13] top.eq02_ula_tb.sig_in_b[12] top.eq02_ula_tb.sig_in_b[11] top.eq02_ula_tb.sig_in_b[10] top.eq02_ula_tb.sig_in_b[9] top.eq02_ula_tb.sig_in_b[8] top.eq02_ula_tb.sig_in_b[7] top.eq02_ula_tb.sig_in_b[6] top.eq02_ula_tb.sig_in_b[5] top.eq02_ula_tb.sig_in_b[4] top.eq02_ula_tb.sig_in_b[3] top.eq02_ula_tb.sig_in_b[2] top.eq02_ula_tb.sig_in_b[1] top.eq02_ula_tb.sig_in_b[0]
+@28
+[color] 1
+#{top.eq02_ula_tb.sig_op[1:0]} top.eq02_ula_tb.sig_op[1] top.eq02_ula_tb.sig_op[0]
+@22
+[color] 5
+#{top.eq02_ula_tb.sig_out_ula[15:0]} top.eq02_ula_tb.sig_out_ula[15] top.eq02_ula_tb.sig_out_ula[14] top.eq02_ula_tb.sig_out_ula[13] top.eq02_ula_tb.sig_out_ula[12] top.eq02_ula_tb.sig_out_ula[11] top.eq02_ula_tb.sig_out_ula[10] top.eq02_ula_tb.sig_out_ula[9] top.eq02_ula_tb.sig_out_ula[8] top.eq02_ula_tb.sig_out_ula[7] top.eq02_ula_tb.sig_out_ula[6] top.eq02_ula_tb.sig_out_ula[5] top.eq02_ula_tb.sig_out_ula[4] top.eq02_ula_tb.sig_out_ula[3] top.eq02_ula_tb.sig_out_ula[2] top.eq02_ula_tb.sig_out_ula[1] top.eq02_ula_tb.sig_out_ula[0]
+@28
+[color] 3
+top.eq02_ula_tb.mapeamento.maior
+[color] 3
+top.eq02_ula_tb.mapeamento.zero
+[pattern_trace] 1
+[pattern_trace] 0

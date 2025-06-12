@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Dec 01 20:30:26 2024
+[*]
+[dumpfile] "C:\Users\Usuario\Documents\0 UTFPR\ARQCOMP\semana_06\Eq02-ROM_PC_UC\Eq02-ROM_PC_UC.ghw"
+[dumpfile_mtime] "Sun Dec 01 20:28:27 2024"
+[dumpfile_size] 2168
+[savefile] "C:\Users\Usuario\Documents\0 UTFPR\ARQCOMP\semana_06\Eq02-ROM_PC_UC\Eq02-ROM_PC_UC.gtkw"
+[timestart] 0
+[size] 1829 600
+[pos] -27 -15
+*-28.494141 350000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.temp_tb.
+[treeopen] top.temp_tb.mapa.
+[treeopen] top.temp_tb.mapa.mapa_pc.
+[treeopen] top.temp_tb.mapa.mapa_rom.
+[treeopen] top.temp_tb.mapa.mapa_uc.
+[sst_width] 259
+[signals_width] 222
+[sst_expanded] 1
+[sst_vpaned_height] 323
+@28
+[color] 2
+top.temp_tb.s_clk
+[color] 1
+top.temp_tb.s_rst
+@29
+[color] 5
+top.temp_tb.mapa.mapa_uc.step
+@24
+#{top.temp_tb.mapa.mapa_pc.s_next_instruction[15:0]} top.temp_tb.mapa.mapa_pc.s_next_instruction[15] top.temp_tb.mapa.mapa_pc.s_next_instruction[14] top.temp_tb.mapa.mapa_pc.s_next_instruction[13] top.temp_tb.mapa.mapa_pc.s_next_instruction[12] top.temp_tb.mapa.mapa_pc.s_next_instruction[11] top.temp_tb.mapa.mapa_pc.s_next_instruction[10] top.temp_tb.mapa.mapa_pc.s_next_instruction[9] top.temp_tb.mapa.mapa_pc.s_next_instruction[8] top.temp_tb.mapa.mapa_pc.s_next_instruction[7] top.temp_tb.mapa.mapa_pc.s_next_instruction[6] top.temp_tb.mapa.mapa_pc.s_next_instruction[5] top.temp_tb.mapa.mapa_pc.s_next_instruction[4] top.temp_tb.mapa.mapa_pc.s_next_instruction[3] top.temp_tb.mapa.mapa_pc.s_next_instruction[2] top.temp_tb.mapa.mapa_pc.s_next_instruction[1] top.temp_tb.mapa.mapa_pc.s_next_instruction[0]
+@22
+#{top.temp_tb.mapa.mapa_uc.instruction[7:0]} top.temp_tb.mapa.mapa_uc.instruction[7] top.temp_tb.mapa.mapa_uc.instruction[6] top.temp_tb.mapa.mapa_uc.instruction[5] top.temp_tb.mapa.mapa_uc.instruction[4] top.temp_tb.mapa.mapa_uc.instruction[3] top.temp_tb.mapa.mapa_uc.instruction[2] top.temp_tb.mapa.mapa_uc.instruction[1] top.temp_tb.mapa.mapa_uc.instruction[0]
+[pattern_trace] 1
+[pattern_trace] 0

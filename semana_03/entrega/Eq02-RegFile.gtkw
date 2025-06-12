@@ -1,0 +1,67 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun Nov 10 15:33:44 2024
+[*]
+[dumpfile] "C:\Users\Usuario\Documents\0 UTFPR\ARQCOMP\semana_03\entrega\Eq02-RegFile.ghw"
+[dumpfile_mtime] "Sun Nov 10 15:29:17 2024"
+[dumpfile_size] 3727
+[savefile] "C:\Users\Usuario\Documents\0 UTFPR\ARQCOMP\semana_03\entrega\Eq02-RegFile.gtkw"
+[timestart] 0
+[size] 1751 600
+[pos] -571 -170
+*-28.051186 234000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.regfile_tb.
+[treeopen] top.regfile_tb.uut.
+[treeopen] top.regfile_tb.uut.mapa1.
+[treeopen] top.regfile_tb.uut.mapa2.
+[treeopen] top.regfile_tb.uut.mapa3.
+[treeopen] top.regfile_tb.uut.mapa4.
+[treeopen] top.regfile_tb.uut.mapa5.
+[treeopen] top.regfile_tb.uut.mapa6.
+[treeopen] top.regfile_tb.uut.mapa7.
+[sst_width] 264
+[signals_width] 237
+[sst_expanded] 1
+[sst_vpaned_height] 293
+@28
+top.regfile_tb.uut.clk
+top.regfile_tb.uut.rst
+[color] 7
+top.regfile_tb.uut.we3
+@24
+[color] 3
+#{top.regfile_tb.uut.a3[2:0]} top.regfile_tb.uut.a3[2] top.regfile_tb.uut.a3[1] top.regfile_tb.uut.a3[0]
+@22
+[color] 2
+#{top.regfile_tb.uut.wd3[15:0]} top.regfile_tb.uut.wd3[15] top.regfile_tb.uut.wd3[14] top.regfile_tb.uut.wd3[13] top.regfile_tb.uut.wd3[12] top.regfile_tb.uut.wd3[11] top.regfile_tb.uut.wd3[10] top.regfile_tb.uut.wd3[9] top.regfile_tb.uut.wd3[8] top.regfile_tb.uut.wd3[7] top.regfile_tb.uut.wd3[6] top.regfile_tb.uut.wd3[5] top.regfile_tb.uut.wd3[4] top.regfile_tb.uut.wd3[3] top.regfile_tb.uut.wd3[2] top.regfile_tb.uut.wd3[1] top.regfile_tb.uut.wd3[0]
+[color] 5
+#{top.regfile_tb.uut.registro7[15:0]} top.regfile_tb.uut.registro7[15] top.regfile_tb.uut.registro7[14] top.regfile_tb.uut.registro7[13] top.regfile_tb.uut.registro7[12] top.regfile_tb.uut.registro7[11] top.regfile_tb.uut.registro7[10] top.regfile_tb.uut.registro7[9] top.regfile_tb.uut.registro7[8] top.regfile_tb.uut.registro7[7] top.regfile_tb.uut.registro7[6] top.regfile_tb.uut.registro7[5] top.regfile_tb.uut.registro7[4] top.regfile_tb.uut.registro7[3] top.regfile_tb.uut.registro7[2] top.regfile_tb.uut.registro7[1] top.regfile_tb.uut.registro7[0]
+[color] 5
+#{top.regfile_tb.uut.registro6[15:0]} top.regfile_tb.uut.registro6[15] top.regfile_tb.uut.registro6[14] top.regfile_tb.uut.registro6[13] top.regfile_tb.uut.registro6[12] top.regfile_tb.uut.registro6[11] top.regfile_tb.uut.registro6[10] top.regfile_tb.uut.registro6[9] top.regfile_tb.uut.registro6[8] top.regfile_tb.uut.registro6[7] top.regfile_tb.uut.registro6[6] top.regfile_tb.uut.registro6[5] top.regfile_tb.uut.registro6[4] top.regfile_tb.uut.registro6[3] top.regfile_tb.uut.registro6[2] top.regfile_tb.uut.registro6[1] top.regfile_tb.uut.registro6[0]
+[color] 5
+#{top.regfile_tb.uut.registro5[15:0]} top.regfile_tb.uut.registro5[15] top.regfile_tb.uut.registro5[14] top.regfile_tb.uut.registro5[13] top.regfile_tb.uut.registro5[12] top.regfile_tb.uut.registro5[11] top.regfile_tb.uut.registro5[10] top.regfile_tb.uut.registro5[9] top.regfile_tb.uut.registro5[8] top.regfile_tb.uut.registro5[7] top.regfile_tb.uut.registro5[6] top.regfile_tb.uut.registro5[5] top.regfile_tb.uut.registro5[4] top.regfile_tb.uut.registro5[3] top.regfile_tb.uut.registro5[2] top.regfile_tb.uut.registro5[1] top.regfile_tb.uut.registro5[0]
+[color] 5
+#{top.regfile_tb.uut.registro4[15:0]} top.regfile_tb.uut.registro4[15] top.regfile_tb.uut.registro4[14] top.regfile_tb.uut.registro4[13] top.regfile_tb.uut.registro4[12] top.regfile_tb.uut.registro4[11] top.regfile_tb.uut.registro4[10] top.regfile_tb.uut.registro4[9] top.regfile_tb.uut.registro4[8] top.regfile_tb.uut.registro4[7] top.regfile_tb.uut.registro4[6] top.regfile_tb.uut.registro4[5] top.regfile_tb.uut.registro4[4] top.regfile_tb.uut.registro4[3] top.regfile_tb.uut.registro4[2] top.regfile_tb.uut.registro4[1] top.regfile_tb.uut.registro4[0]
+[color] 5
+#{top.regfile_tb.uut.registro3[15:0]} top.regfile_tb.uut.registro3[15] top.regfile_tb.uut.registro3[14] top.regfile_tb.uut.registro3[13] top.regfile_tb.uut.registro3[12] top.regfile_tb.uut.registro3[11] top.regfile_tb.uut.registro3[10] top.regfile_tb.uut.registro3[9] top.regfile_tb.uut.registro3[8] top.regfile_tb.uut.registro3[7] top.regfile_tb.uut.registro3[6] top.regfile_tb.uut.registro3[5] top.regfile_tb.uut.registro3[4] top.regfile_tb.uut.registro3[3] top.regfile_tb.uut.registro3[2] top.regfile_tb.uut.registro3[1] top.regfile_tb.uut.registro3[0]
+[color] 5
+#{top.regfile_tb.uut.registro2[15:0]} top.regfile_tb.uut.registro2[15] top.regfile_tb.uut.registro2[14] top.regfile_tb.uut.registro2[13] top.regfile_tb.uut.registro2[12] top.regfile_tb.uut.registro2[11] top.regfile_tb.uut.registro2[10] top.regfile_tb.uut.registro2[9] top.regfile_tb.uut.registro2[8] top.regfile_tb.uut.registro2[7] top.regfile_tb.uut.registro2[6] top.regfile_tb.uut.registro2[5] top.regfile_tb.uut.registro2[4] top.regfile_tb.uut.registro2[3] top.regfile_tb.uut.registro2[2] top.regfile_tb.uut.registro2[1] top.regfile_tb.uut.registro2[0]
+[color] 5
+#{top.regfile_tb.uut.registro1[15:0]} top.regfile_tb.uut.registro1[15] top.regfile_tb.uut.registro1[14] top.regfile_tb.uut.registro1[13] top.regfile_tb.uut.registro1[12] top.regfile_tb.uut.registro1[11] top.regfile_tb.uut.registro1[10] top.regfile_tb.uut.registro1[9] top.regfile_tb.uut.registro1[8] top.regfile_tb.uut.registro1[7] top.regfile_tb.uut.registro1[6] top.regfile_tb.uut.registro1[5] top.regfile_tb.uut.registro1[4] top.regfile_tb.uut.registro1[3] top.regfile_tb.uut.registro1[2] top.regfile_tb.uut.registro1[1] top.regfile_tb.uut.registro1[0]
+[color] 5
+#{top.regfile_tb.uut.registro0[15:0]} top.regfile_tb.uut.registro0[15] top.regfile_tb.uut.registro0[14] top.regfile_tb.uut.registro0[13] top.regfile_tb.uut.registro0[12] top.regfile_tb.uut.registro0[11] top.regfile_tb.uut.registro0[10] top.regfile_tb.uut.registro0[9] top.regfile_tb.uut.registro0[8] top.regfile_tb.uut.registro0[7] top.regfile_tb.uut.registro0[6] top.regfile_tb.uut.registro0[5] top.regfile_tb.uut.registro0[4] top.regfile_tb.uut.registro0[3] top.regfile_tb.uut.registro0[2] top.regfile_tb.uut.registro0[1] top.regfile_tb.uut.registro0[0]
+@24
+[color] 3
+#{top.regfile_tb.uut.a1[2:0]} top.regfile_tb.uut.a1[2] top.regfile_tb.uut.a1[1] top.regfile_tb.uut.a1[0]
+@22
+[color] 2
+#{top.regfile_tb.uut.rd1[15:0]} top.regfile_tb.uut.rd1[15] top.regfile_tb.uut.rd1[14] top.regfile_tb.uut.rd1[13] top.regfile_tb.uut.rd1[12] top.regfile_tb.uut.rd1[11] top.regfile_tb.uut.rd1[10] top.regfile_tb.uut.rd1[9] top.regfile_tb.uut.rd1[8] top.regfile_tb.uut.rd1[7] top.regfile_tb.uut.rd1[6] top.regfile_tb.uut.rd1[5] top.regfile_tb.uut.rd1[4] top.regfile_tb.uut.rd1[3] top.regfile_tb.uut.rd1[2] top.regfile_tb.uut.rd1[1] top.regfile_tb.uut.rd1[0]
+@24
+[color] 3
+#{top.regfile_tb.uut.a2[2:0]} top.regfile_tb.uut.a2[2] top.regfile_tb.uut.a2[1] top.regfile_tb.uut.a2[0]
+@22
+[color] 2
+#{top.regfile_tb.uut.rd2[15:0]} top.regfile_tb.uut.rd2[15] top.regfile_tb.uut.rd2[14] top.regfile_tb.uut.rd2[13] top.regfile_tb.uut.rd2[12] top.regfile_tb.uut.rd2[11] top.regfile_tb.uut.rd2[10] top.regfile_tb.uut.rd2[9] top.regfile_tb.uut.rd2[8] top.regfile_tb.uut.rd2[7] top.regfile_tb.uut.rd2[6] top.regfile_tb.uut.rd2[5] top.regfile_tb.uut.rd2[4] top.regfile_tb.uut.rd2[3] top.regfile_tb.uut.rd2[2] top.regfile_tb.uut.rd2[1] top.regfile_tb.uut.rd2[0]
+[pattern_trace] 1
+[pattern_trace] 0

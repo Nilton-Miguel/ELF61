@@ -1,0 +1,64 @@
+[*]
+[*] GTKWave Analyzer v3.3.120 (w)1999-2024 BSI
+[*] Mon Nov 25 21:16:08 2024
+[*]
+[dumpfile] "/home/anacleto-jvs/Documents/bacharelado/elf61/lab04/Eq02_ULARegs_tb.ghw"
+[dumpfile_mtime] "Mon Nov 25 21:14:52 2024"
+[dumpfile_size] 3779
+[savefile] "/home/anacleto-jvs/Documents/bacharelado/elf61/lab04/Eq02_ULARegs_tb.gtkw"
+[timestart] 0
+[size] 1920 988
+[pos] -1 -1
+*-26.327497 490100000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.eq02_ularegs_tb.
+[treeopen] top.eq02_ularegs_tb.top.
+[treeopen] top.eq02_ularegs_tb.top.regs.
+[treeopen] top.eq02_ularegs_tb.top.regs.r0.
+[sst_width] 209
+[signals_width] 255
+[sst_expanded] 1
+[sst_vpaned_height] 290
+@28
+[color] 2
+top.eq02_ularegs_tb.sig_clk
+[color] 1
+top.eq02_ularegs_tb.sig_rst
+@22
+#{top.eq02_ularegs_tb.top.regs.rd1[15:0]} top.eq02_ularegs_tb.top.regs.rd1[15] top.eq02_ularegs_tb.top.regs.rd1[14] top.eq02_ularegs_tb.top.regs.rd1[13] top.eq02_ularegs_tb.top.regs.rd1[12] top.eq02_ularegs_tb.top.regs.rd1[11] top.eq02_ularegs_tb.top.regs.rd1[10] top.eq02_ularegs_tb.top.regs.rd1[9] top.eq02_ularegs_tb.top.regs.rd1[8] top.eq02_ularegs_tb.top.regs.rd1[7] top.eq02_ularegs_tb.top.regs.rd1[6] top.eq02_ularegs_tb.top.regs.rd1[5] top.eq02_ularegs_tb.top.regs.rd1[4] top.eq02_ularegs_tb.top.regs.rd1[3] top.eq02_ularegs_tb.top.regs.rd1[2] top.eq02_ularegs_tb.top.regs.rd1[1] top.eq02_ularegs_tb.top.regs.rd1[0]
+#{top.eq02_ularegs_tb.top.regs.rd2[15:0]} top.eq02_ularegs_tb.top.regs.rd2[15] top.eq02_ularegs_tb.top.regs.rd2[14] top.eq02_ularegs_tb.top.regs.rd2[13] top.eq02_ularegs_tb.top.regs.rd2[12] top.eq02_ularegs_tb.top.regs.rd2[11] top.eq02_ularegs_tb.top.regs.rd2[10] top.eq02_ularegs_tb.top.regs.rd2[9] top.eq02_ularegs_tb.top.regs.rd2[8] top.eq02_ularegs_tb.top.regs.rd2[7] top.eq02_ularegs_tb.top.regs.rd2[6] top.eq02_ularegs_tb.top.regs.rd2[5] top.eq02_ularegs_tb.top.regs.rd2[4] top.eq02_ularegs_tb.top.regs.rd2[3] top.eq02_ularegs_tb.top.regs.rd2[2] top.eq02_ularegs_tb.top.regs.rd2[1] top.eq02_ularegs_tb.top.regs.rd2[0]
+[color] 7
+#{top.eq02_ularegs_tb.sig_ext_const[15:0]} top.eq02_ularegs_tb.sig_ext_const[15] top.eq02_ularegs_tb.sig_ext_const[14] top.eq02_ularegs_tb.sig_ext_const[13] top.eq02_ularegs_tb.sig_ext_const[12] top.eq02_ularegs_tb.sig_ext_const[11] top.eq02_ularegs_tb.sig_ext_const[10] top.eq02_ularegs_tb.sig_ext_const[9] top.eq02_ularegs_tb.sig_ext_const[8] top.eq02_ularegs_tb.sig_ext_const[7] top.eq02_ularegs_tb.sig_ext_const[6] top.eq02_ularegs_tb.sig_ext_const[5] top.eq02_ularegs_tb.sig_ext_const[4] top.eq02_ularegs_tb.sig_ext_const[3] top.eq02_ularegs_tb.sig_ext_const[2] top.eq02_ularegs_tb.sig_ext_const[1] top.eq02_ularegs_tb.sig_ext_const[0]
+@28
+[color] 1
+top.eq02_ularegs_tb.sig_ula_src
+[color] 2
+top.eq02_ularegs_tb.sig_wr_en
+[color] 3
+#{top.eq02_ularegs_tb.sig_a1[2:0]} top.eq02_ularegs_tb.sig_a1[2] top.eq02_ularegs_tb.sig_a1[1] top.eq02_ularegs_tb.sig_a1[0]
+[color] 3
+#{top.eq02_ularegs_tb.sig_a2[2:0]} top.eq02_ularegs_tb.sig_a2[2] top.eq02_ularegs_tb.sig_a2[1] top.eq02_ularegs_tb.sig_a2[0]
+[color] 3
+#{top.eq02_ularegs_tb.sig_a3[2:0]} top.eq02_ularegs_tb.sig_a3[2] top.eq02_ularegs_tb.sig_a3[1] top.eq02_ularegs_tb.sig_a3[0]
+#{top.eq02_ularegs_tb.sig_op[1:0]} top.eq02_ularegs_tb.sig_op[1] top.eq02_ularegs_tb.sig_op[0]
+@22
+[color] 7
+#{top.eq02_ularegs_tb.top.s_ulaout[15:0]} top.eq02_ularegs_tb.top.s_ulaout[15] top.eq02_ularegs_tb.top.s_ulaout[14] top.eq02_ularegs_tb.top.s_ulaout[13] top.eq02_ularegs_tb.top.s_ulaout[12] top.eq02_ularegs_tb.top.s_ulaout[11] top.eq02_ularegs_tb.top.s_ulaout[10] top.eq02_ularegs_tb.top.s_ulaout[9] top.eq02_ularegs_tb.top.s_ulaout[8] top.eq02_ularegs_tb.top.s_ulaout[7] top.eq02_ularegs_tb.top.s_ulaout[6] top.eq02_ularegs_tb.top.s_ulaout[5] top.eq02_ularegs_tb.top.s_ulaout[4] top.eq02_ularegs_tb.top.s_ulaout[3] top.eq02_ularegs_tb.top.s_ulaout[2] top.eq02_ularegs_tb.top.s_ulaout[1] top.eq02_ularegs_tb.top.s_ulaout[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r0_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r0_data_out[15] top.eq02_ularegs_tb.top.regs.r0_data_out[14] top.eq02_ularegs_tb.top.regs.r0_data_out[13] top.eq02_ularegs_tb.top.regs.r0_data_out[12] top.eq02_ularegs_tb.top.regs.r0_data_out[11] top.eq02_ularegs_tb.top.regs.r0_data_out[10] top.eq02_ularegs_tb.top.regs.r0_data_out[9] top.eq02_ularegs_tb.top.regs.r0_data_out[8] top.eq02_ularegs_tb.top.regs.r0_data_out[7] top.eq02_ularegs_tb.top.regs.r0_data_out[6] top.eq02_ularegs_tb.top.regs.r0_data_out[5] top.eq02_ularegs_tb.top.regs.r0_data_out[4] top.eq02_ularegs_tb.top.regs.r0_data_out[3] top.eq02_ularegs_tb.top.regs.r0_data_out[2] top.eq02_ularegs_tb.top.regs.r0_data_out[1] top.eq02_ularegs_tb.top.regs.r0_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r1_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r1_data_out[15] top.eq02_ularegs_tb.top.regs.r1_data_out[14] top.eq02_ularegs_tb.top.regs.r1_data_out[13] top.eq02_ularegs_tb.top.regs.r1_data_out[12] top.eq02_ularegs_tb.top.regs.r1_data_out[11] top.eq02_ularegs_tb.top.regs.r1_data_out[10] top.eq02_ularegs_tb.top.regs.r1_data_out[9] top.eq02_ularegs_tb.top.regs.r1_data_out[8] top.eq02_ularegs_tb.top.regs.r1_data_out[7] top.eq02_ularegs_tb.top.regs.r1_data_out[6] top.eq02_ularegs_tb.top.regs.r1_data_out[5] top.eq02_ularegs_tb.top.regs.r1_data_out[4] top.eq02_ularegs_tb.top.regs.r1_data_out[3] top.eq02_ularegs_tb.top.regs.r1_data_out[2] top.eq02_ularegs_tb.top.regs.r1_data_out[1] top.eq02_ularegs_tb.top.regs.r1_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r2_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r2_data_out[15] top.eq02_ularegs_tb.top.regs.r2_data_out[14] top.eq02_ularegs_tb.top.regs.r2_data_out[13] top.eq02_ularegs_tb.top.regs.r2_data_out[12] top.eq02_ularegs_tb.top.regs.r2_data_out[11] top.eq02_ularegs_tb.top.regs.r2_data_out[10] top.eq02_ularegs_tb.top.regs.r2_data_out[9] top.eq02_ularegs_tb.top.regs.r2_data_out[8] top.eq02_ularegs_tb.top.regs.r2_data_out[7] top.eq02_ularegs_tb.top.regs.r2_data_out[6] top.eq02_ularegs_tb.top.regs.r2_data_out[5] top.eq02_ularegs_tb.top.regs.r2_data_out[4] top.eq02_ularegs_tb.top.regs.r2_data_out[3] top.eq02_ularegs_tb.top.regs.r2_data_out[2] top.eq02_ularegs_tb.top.regs.r2_data_out[1] top.eq02_ularegs_tb.top.regs.r2_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r3_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r3_data_out[15] top.eq02_ularegs_tb.top.regs.r3_data_out[14] top.eq02_ularegs_tb.top.regs.r3_data_out[13] top.eq02_ularegs_tb.top.regs.r3_data_out[12] top.eq02_ularegs_tb.top.regs.r3_data_out[11] top.eq02_ularegs_tb.top.regs.r3_data_out[10] top.eq02_ularegs_tb.top.regs.r3_data_out[9] top.eq02_ularegs_tb.top.regs.r3_data_out[8] top.eq02_ularegs_tb.top.regs.r3_data_out[7] top.eq02_ularegs_tb.top.regs.r3_data_out[6] top.eq02_ularegs_tb.top.regs.r3_data_out[5] top.eq02_ularegs_tb.top.regs.r3_data_out[4] top.eq02_ularegs_tb.top.regs.r3_data_out[3] top.eq02_ularegs_tb.top.regs.r3_data_out[2] top.eq02_ularegs_tb.top.regs.r3_data_out[1] top.eq02_ularegs_tb.top.regs.r3_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r4_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r4_data_out[15] top.eq02_ularegs_tb.top.regs.r4_data_out[14] top.eq02_ularegs_tb.top.regs.r4_data_out[13] top.eq02_ularegs_tb.top.regs.r4_data_out[12] top.eq02_ularegs_tb.top.regs.r4_data_out[11] top.eq02_ularegs_tb.top.regs.r4_data_out[10] top.eq02_ularegs_tb.top.regs.r4_data_out[9] top.eq02_ularegs_tb.top.regs.r4_data_out[8] top.eq02_ularegs_tb.top.regs.r4_data_out[7] top.eq02_ularegs_tb.top.regs.r4_data_out[6] top.eq02_ularegs_tb.top.regs.r4_data_out[5] top.eq02_ularegs_tb.top.regs.r4_data_out[4] top.eq02_ularegs_tb.top.regs.r4_data_out[3] top.eq02_ularegs_tb.top.regs.r4_data_out[2] top.eq02_ularegs_tb.top.regs.r4_data_out[1] top.eq02_ularegs_tb.top.regs.r4_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r5_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r5_data_out[15] top.eq02_ularegs_tb.top.regs.r5_data_out[14] top.eq02_ularegs_tb.top.regs.r5_data_out[13] top.eq02_ularegs_tb.top.regs.r5_data_out[12] top.eq02_ularegs_tb.top.regs.r5_data_out[11] top.eq02_ularegs_tb.top.regs.r5_data_out[10] top.eq02_ularegs_tb.top.regs.r5_data_out[9] top.eq02_ularegs_tb.top.regs.r5_data_out[8] top.eq02_ularegs_tb.top.regs.r5_data_out[7] top.eq02_ularegs_tb.top.regs.r5_data_out[6] top.eq02_ularegs_tb.top.regs.r5_data_out[5] top.eq02_ularegs_tb.top.regs.r5_data_out[4] top.eq02_ularegs_tb.top.regs.r5_data_out[3] top.eq02_ularegs_tb.top.regs.r5_data_out[2] top.eq02_ularegs_tb.top.regs.r5_data_out[1] top.eq02_ularegs_tb.top.regs.r5_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r6_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r6_data_out[15] top.eq02_ularegs_tb.top.regs.r6_data_out[14] top.eq02_ularegs_tb.top.regs.r6_data_out[13] top.eq02_ularegs_tb.top.regs.r6_data_out[12] top.eq02_ularegs_tb.top.regs.r6_data_out[11] top.eq02_ularegs_tb.top.regs.r6_data_out[10] top.eq02_ularegs_tb.top.regs.r6_data_out[9] top.eq02_ularegs_tb.top.regs.r6_data_out[8] top.eq02_ularegs_tb.top.regs.r6_data_out[7] top.eq02_ularegs_tb.top.regs.r6_data_out[6] top.eq02_ularegs_tb.top.regs.r6_data_out[5] top.eq02_ularegs_tb.top.regs.r6_data_out[4] top.eq02_ularegs_tb.top.regs.r6_data_out[3] top.eq02_ularegs_tb.top.regs.r6_data_out[2] top.eq02_ularegs_tb.top.regs.r6_data_out[1] top.eq02_ularegs_tb.top.regs.r6_data_out[0]
+[color] 5
+#{top.eq02_ularegs_tb.top.regs.r7_data_out[15:0]} top.eq02_ularegs_tb.top.regs.r7_data_out[15] top.eq02_ularegs_tb.top.regs.r7_data_out[14] top.eq02_ularegs_tb.top.regs.r7_data_out[13] top.eq02_ularegs_tb.top.regs.r7_data_out[12] top.eq02_ularegs_tb.top.regs.r7_data_out[11] top.eq02_ularegs_tb.top.regs.r7_data_out[10] top.eq02_ularegs_tb.top.regs.r7_data_out[9] top.eq02_ularegs_tb.top.regs.r7_data_out[8] top.eq02_ularegs_tb.top.regs.r7_data_out[7] top.eq02_ularegs_tb.top.regs.r7_data_out[6] top.eq02_ularegs_tb.top.regs.r7_data_out[5] top.eq02_ularegs_tb.top.regs.r7_data_out[4] top.eq02_ularegs_tb.top.regs.r7_data_out[3] top.eq02_ularegs_tb.top.regs.r7_data_out[2] top.eq02_ularegs_tb.top.regs.r7_data_out[1] top.eq02_ularegs_tb.top.regs.r7_data_out[0]
+[pattern_trace] 1
+[pattern_trace] 0

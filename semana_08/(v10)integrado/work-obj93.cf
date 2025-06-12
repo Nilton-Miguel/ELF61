@@ -1,0 +1,43 @@
+v 4
+file . "temp_tb.vhd" "443c3fef6e9b93ec210054685f1c56e5156c0589" "20241219213937.221":
+  entity bench at 10( 386) + 0 on 3817;
+  architecture a_bench of bench at 17( 492) + 0 on 3818;
+file . "Eq02-ULARegs.vhd" "7acbfa2c0656b182c88feecbb0d2f8f745bd5b63" "20241219213937.133":
+  entity eq02_ularegs at 10( 377) + 0 on 3813;
+  architecture a_eq02_ularegs of eq02_ularegs at 40( 1074) + 0 on 3814;
+file . "Eq02-reg24bits.vhd" "d6e1ac6875c5edb440c543bc682bf50f8eb582f4" "20241216205536.367":
+  entity eq02_reg24bits at 10( 377) + 0 on 31;
+  architecture a_eq02_reg24bits of eq02_reg24bits at 26( 703) + 0 on 32;
+file . "Eq02-uc.vhd" "56f19664bf7ee79a12039f50ca896fc5c0e2668f" "20241219213936.912":
+  entity uc at 10( 386) + 0 on 3803;
+  architecture a_uc of uc at 41( 1429) + 0 on 3804;
+file . "Eq02-reg16bits.vhd" "e93e5ec88152e94bc48c4569a135290333c72477" "20241219213936.732":
+  entity eq02_reg16bits at 10( 377) + 0 on 3795;
+  architecture a_eq02_reg16bits of eq02_reg16bits at 25( 645) + 0 on 3796;
+file . "Eq02-maq_estados.vhd" "a02d31d06fa27e4a4b2577f74a5a80b51c66c62b" "20241219213936.870":
+  entity maq_estados at 10( 386) + 0 on 3801;
+  architecture a_maq_estados of maq_estados at 21( 577) + 0 on 3802;
+file . "Eq02-rom.vhd" "e1187ed4d914710f7bdf0705edc98530047b740d" "20241219213936.833":
+  entity rom at 10( 386) + 0 on 3799;
+  architecture a_rom of rom at 24( 726) + 0 on 3800;
+file . "Eq02-program_counter.vhd" "1b57753f85648007668aee103cc75f2ed5282a06" "20241219213936.775":
+  entity program_counter at 10( 386) + 0 on 3797;
+  architecture a_program_counter of program_counter at 32( 931) + 0 on 3798;
+file . "Eq02-ROM_PC_UC.vhd" "c76dfb3d94c2d1ae8b5d2882b934bae3c8ef2557" "20241219213936.962":
+  entity rom_pc_uc at 10( 386) + 0 on 3805;
+  architecture a_rom_oc_uc of rom_pc_uc at 32( 1080) + 0 on 3806;
+file . "Eq02-ROM_PC_UC_tb.vhd" "b297160497baa1379fc86701808621f3e74dbfca" "20241216220318.770":
+  entity temp_tb at 10( 386) + 0 on 225;
+  architecture a_temp_tb of temp_tb at 17( 494) + 0 on 226;
+file . "Eq02-RegFile.vhd" "ce84eb4041d7c3397975453665781ce88f0f7b4f" "20241219213937.050":
+  entity eq02_regfile at 10( 377) + 0 on 3809;
+  architecture a_eq02_regfile of eq02_regfile at 37( 902) + 0 on 3810;
+file . "Eq02-ULA.vhd" "7081a211bf733b3949b3211dc0e99ea6f07a4ccf" "20241219213937.088":
+  entity eq02_ula at 10( 377) + 0 on 3811;
+  architecture eq02_ula_arch of eq02_ula at 34( 938) + 0 on 3812;
+file . "Eq02-reg32bits.vhd" "b85e6e9d9b1f028b2869719a6d7b455a57b3efac" "20241219213937.005":
+  entity eq02_reg32bits at 10( 386) + 0 on 3807;
+  architecture a_eq02_reg32bits of eq02_reg32bits at 26( 727) + 0 on 3808;
+file . "Eq02-microProcessador.vhd" "3e07b91697d76f12c82e0b66b5997ab5d9a1dbf5" "20241219213937.179":
+  entity microprocessador at 10( 386) + 0 on 3815;
+  architecture a_microprocessador of microprocessador at 21( 559) + 0 on 3816;

@@ -1,0 +1,7 @@
+v 4
+file . "Eq02_ULA_tb.vhd" "ca547453564a2d7f1d7220efcba16f6e2b6c97db" "20241021213309.605":
+  entity eq02_ula_tb at 11( 388) + 0 on 13;
+  architecture arq_eq02_ula_tb of eq02_ula_tb at 18( 500) + 0 on 14;
+file . "Eq02_ULA.vhd" "4ccdaab05c944c928d38553f825c128ffb6e7df7" "20241021213309.561":
+  entity eq02_ula at 11( 388) + 0 on 11;
+  architecture arq_eq02_ula of eq02_ula at 34( 846) + 0 on 12;
